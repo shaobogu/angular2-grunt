@@ -1,0 +1,42 @@
+{
+  "name": "platformadmin",
+  "version": "4.3.0",
+  "devDependencies": {
+    "@types/core-js": "^0.9.35",
+    "@types/lodash": "^4.14.52",
+    "@types/node": "^7.0.5",
+    "@types/rx": "^4.1.1",
+    "express": "^4.14.0",
+    "express-http-proxy": "^0.7.4",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-properties-to-json": "^0.6.0",
+    "grunt-ts": "6.0.0-beta.11",
+    "requirejs": "^2.3.2",
+    "typescript": "^2.1.6"
+  },
+  "dependencies": {
+    "@angular/common": "^2.4.1",
+    "@angular/compiler": "^2.4.1",
+    "@angular/compiler-cli": "^2.4.1",
+    "@angular/core": "^2.4.1",
+    "@angular/forms": "^2.4.1",
+    "@angular/http": "^2.4.1",
+    "@angular/platform-browser": "^2.4.1",
+    "@angular/platform-browser-dynamic": "^2.4.1",
+    "@angular/router": "^3.4.1",
+    "@angular/upgrade": "^2.4.1",
+    "@ng-bootstrap/ng-bootstrap": "^1.0.0-alpha.16",
+    "bootstrap": "^3.3.7",
+    "core-js": "^2.4.1",
+    "font-awesome": "^4.7.0",
+    "lodash": "^4.17.4",
+    "reflect-metadata": "^0.1.9",
+    "rxjs": "^5.1.1",
+    "systemjs": "^0.19.41",
+    "zone.js": "^0.7.6"
+  }
+}

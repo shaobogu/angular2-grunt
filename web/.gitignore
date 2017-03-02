@@ -1,0 +1,9 @@
+.sass-cache
+.tscache
+.idea
+dist
+node_modules
+src/.basedir.ts
+src/lib
+src/shared/resources/*.json
+src/shared/resources/ResourceManager.service.ts
